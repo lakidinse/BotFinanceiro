@@ -1,0 +1,47 @@
+{
+    "comida": [
+        "hamburguer", "açai", "comida", "rancho", "mercado", "restaurante", "lanche", "pizza",
+        "café", "padaria", "sorvete", "fast food", "delivery", "ifood", "supermercado", "feira"
+    ],
+    "transporte": [
+        "uber", "taxi", "gasolina", "ônibus", "metrô", "estacionamento", "disel", "combustivel",
+        "posto", "transporte", "bilhete", "passagem", "pedágio", "manutenção", "lavagem", "seguro"
+    ],
+    "lazer": [
+        "cinema", "parque", "show", "viagem", "festival", "jogo", "lazer", "teatro", "museu",
+        "festa", "balada", "bar", "boate", "passeio", "turismo", "hobby", "esporte", "academia"
+    ],
+    "saúde": [
+        "farmacia", "remédio", "médico", "hospital", "consulta", "plano de saúde", "exame",
+        "dentista", "óculos", "fisioterapia", "psicólogo", "suplemento", "vitamina", "academia"
+    ],
+    "educação": [
+        "livro", "curso", "faculdade", "material escolar", "escola", "universidade", "aula",
+        "professor", "mensalidade", "matrícula", "workshop", "seminário", "treinamento", "idioma"
+    ],
+    "casa": [
+        "aluguel", "luz", "água", "internet", "supermercado", "limpeza", "condomínio", "gás",
+        "telefone", "tv", "streaming", "reforma", "móveis", "eletrodomésticos", "decoracao", "jardinagem"
+    ],
+    "vestuário": [
+        "roupa", "calçado", "acessório", "loja", "shopping", "moda", "camisa", "calça", "sapato",
+        "bolsa", "óculos de sol", "joias", "relógio", "roupa íntima", "meia", "blusa"
+    ],
+    "tecnologia": [
+        "celular", "computador", "notebook", "tablet", "software", "hardware", "acessório",
+        "cabo", "carregador", "fone", "impressora", "internet", "streaming", "jogo digital", "aplicativo"
+    ],
+    "presentes": [
+        "presente", "aniversário", "natal", "casamento", "formatura", "lembrança", "cartão",
+        "flor", "chocolate", "brinquedo", "decoração", "artigo festa", "embalagem", "cartão presente"
+    ],
+    "investimentos": [
+        "ações", "bolsa", "renda fixa", "tesouro direto", "poupança", "fundo", "criptomoeda",
+        "bitcoin", "ethereum", "corretora", "banco", "aplicativo", "investimento", "dividendo"
+    ],
+    "doações": [
+        "doação", "caridade", "ong", "instituição", "contribuição", "ajuda", "campanha", "vaquinha",
+        "crowdfunding", "voluntariado", "igreja", "templo", "mesada", "presente solidário"
+    ],
+    "outros": []
+}
